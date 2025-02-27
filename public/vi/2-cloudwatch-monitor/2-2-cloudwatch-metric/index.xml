@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tạo số liệu tùy chỉnh on Serverless - Monitoring Serverless app with CloudWatch and X-Ray</title>
+    <link>//localhost:1313/vi/2-cloudwatch-monitor/2-2-cloudwatch-metric/</link>
+    <description>Recent content in Tạo số liệu tùy chỉnh on Serverless - Monitoring Serverless app with CloudWatch and X-Ray</description>
+    <generator>Hugo</generator>
+    <language>vi</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="//localhost:1313/vi/2-cloudwatch-monitor/2-2-cloudwatch-metric/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
